@@ -1,0 +1,5 @@
+c:\users\artur\documents\visual studio 2015\Projects\CaixaEletronicoTeste\CaixaEletronico\bin\Debug\CaixaEletronico.dll
+c:\users\artur\documents\visual studio 2015\Projects\CaixaEletronicoTeste\CaixaEletronico\bin\Debug\CaixaEletronico.pdb
+c:\users\artur\documents\visual studio 2015\Projects\CaixaEletronicoTeste\CaixaEletronico\obj\Debug\CaixaEletronico.dll
+c:\users\artur\documents\visual studio 2015\Projects\CaixaEletronicoTeste\CaixaEletronico\obj\Debug\CaixaEletronico.pdb
+C:\Users\Artur\documents\visual studio 2015\Projects\CaixaEletronicoTeste\CaixaEletronico\obj\Debug\caixaEletronico.csprojResolveAssemblyReference.cache

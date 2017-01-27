@@ -1,0 +1,8 @@
+c:\users\artur\documents\visual studio 2015\Projects\CaixaEletronicoTeste\CaixaEletronicoTeste\obj\Debug\CaixaEletronicoTeste.csprojResolveAssemblyReference.cache
+c:\users\artur\documents\visual studio 2015\Projects\CaixaEletronicoTeste\CaixaEletronicoTeste\bin\Debug\CaixaEletronicoTeste.dll
+c:\users\artur\documents\visual studio 2015\Projects\CaixaEletronicoTeste\CaixaEletronicoTeste\bin\Debug\CaixaEletronicoTeste.pdb
+c:\users\artur\documents\visual studio 2015\Projects\CaixaEletronicoTeste\CaixaEletronicoTeste\bin\Debug\CaixaEletronico.dll
+c:\users\artur\documents\visual studio 2015\Projects\CaixaEletronicoTeste\CaixaEletronicoTeste\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\artur\documents\visual studio 2015\Projects\CaixaEletronicoTeste\CaixaEletronicoTeste\bin\Debug\CaixaEletronico.pdb
+c:\users\artur\documents\visual studio 2015\Projects\CaixaEletronicoTeste\CaixaEletronicoTeste\obj\Debug\CaixaEletronicoTeste.dll
+c:\users\artur\documents\visual studio 2015\Projects\CaixaEletronicoTeste\CaixaEletronicoTeste\obj\Debug\CaixaEletronicoTeste.pdb
