@@ -1,2 +1,2 @@
 # CaixaEletronico
-Simulação de caixa Eletronico utlizando TDD. c#
+Simulação de caixa Eletronico utlizando TDD. C#
